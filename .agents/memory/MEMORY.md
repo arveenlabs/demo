@@ -1,0 +1,1 @@
+- [Spring Boot Maven env vars](spring-boot-maven-env.md) — Spring Boot's property placeholders don't resolve OS env vars when run via spring-boot:run; use System.getenv() in a @Configuration bean instead.

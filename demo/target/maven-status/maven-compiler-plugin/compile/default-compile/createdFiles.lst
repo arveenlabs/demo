@@ -63,4 +63,5 @@ com/example/demo/repository/ProgressRepository.class
 com/example/demo/model/LiveClass.class
 com/example/demo/dto/ForgotPasswordRequest.class
 com/example/demo/dto/SignupRequest.class
+com/example/demo/config/MongoConfig.class
 com/example/demo/model/WishlistItem.class

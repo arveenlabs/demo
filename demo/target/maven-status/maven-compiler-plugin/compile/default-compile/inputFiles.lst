@@ -1,4 +1,5 @@
 /home/runner/workspace/demo/src/main/java/com/example/demo/DemoApplication.java
+/home/runner/workspace/demo/src/main/java/com/example/demo/config/MongoConfig.java
 /home/runner/workspace/demo/src/main/java/com/example/demo/config/SecurityConfig.java
 /home/runner/workspace/demo/src/main/java/com/example/demo/controller/AdminController.java
 /home/runner/workspace/demo/src/main/java/com/example/demo/controller/AuthController.java
